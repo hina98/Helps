@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Helps</string>
+    <string name="add">Ask Here</string>
+    <string name="helps">Questions and Answers (Q n A)</string>
+    <string name="anyQuestions">Any Questions?</string>
+    <string name="url_server">https://angeh.000webhostapp.com/</string>
+    <string name="url_user_create">api/helps/create.php</string>
+    <string name="url_user_read">api/helps/read.php</string>
+    <string name="submit">Submit Question</string>
+    <string name="sync">Sync</string>
+    <string name="plus">Add</string>
+    <string name="error_value_required">Please fill in question!!</string>
+</resources>
